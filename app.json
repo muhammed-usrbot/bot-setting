@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "RAGANORK_CODE": {
-            "description": "Raganork code (QR scan cheythappo kittiya code). Type here yours Raganork code.",
+            "description": "TAURUS code (QR scan cheythappo kittiya code). Type here yours TAURUS code.",
             "required": true
         },
         "SUDO": {
@@ -32,7 +32,7 @@
             "value": "https://www.linkpicture.com/q/TAURUSGFX.jpg"
         },
         "ALL_CAPTION": {
-            "description": "Give your caption here. Example: Made by Raganork.",
+            "description": "Give your caption here. Example: Made by TAURUS.",
             "required": true,
             "value": "YOUR CAPTION HERE"
         },
@@ -116,7 +116,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "BOT IS ALIVE"
+            "value": "TAURUS BOT IS ALIVE"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
